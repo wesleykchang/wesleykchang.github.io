@@ -18,11 +18,11 @@ dt {
 
 /* Link Styling */
 a, a:visited {
-  color: #ffa500;
+  color: #FF8C00;
   text-decoration: none; }
 
 a:hover {
-  color: #ffa500;
+  color: #FF8C00;
   text-decoration: underline; }
 
 .col-fixed-200 {
@@ -46,7 +46,7 @@ blockquote {
   font-size: 100%; }
 
 .navbar-inverse {
-  background-color: #ffa500;
+  background-color: #FF8C00;
   background-image: none;
   border: 0; }
   .navbar-inverse .navbar-brand {
@@ -61,9 +61,9 @@ blockquote {
   .navbar-inverse .navbar-nav > .active > a,
   .navbar-inverse .navbar-nav > .active > a:hover,
   .navbar-inverse .navbar-nav > .active > a:focus {
-    background: #8c1515; }
+    background: #FF8C00; }
   .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-    background-color: #ffa500; }
+    background-color: #FF8C00; }
 
 .dropdown-menu > li > a {
   color: #ddcf99; }
@@ -88,7 +88,7 @@ blockquote {
   border-bottom: 0px; }
 
 .table-hover thead > tr {
-  background-color: #ffa500;
+  background-color: #FF8C00;
   color: white; }
 
 @media (max-width: 768px) {
@@ -97,7 +97,7 @@ blockquote {
     white-space: normal !important;
     word-break: break-all; } }
 footer {
-  background-color: #ffa500;
+  background-color: #FF8C00;
   color: #eee6cb;
   padding-top: 10px;
   font-size: 12px; }
@@ -127,7 +127,7 @@ footer {
   padding: 5px 0;
   margin-bottom: 0px;
   color: #eee6cb;
-  background-color: #ffa500; }
+  background-color: #FF8C00; }
   .copyright a, .copyright a:visited {
     color: #eee6cb;
     text-decoration: none; }
