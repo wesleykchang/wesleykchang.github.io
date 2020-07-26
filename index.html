@@ -1,169 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<html>
-  <head>
+---
+layout: default
+---
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Graduate Student - Mechanical and Aerospace Engineering Department, Princeton University">
-    <meta name="author" content="">
+<div class='container'>
+    <header class="masthead text-center">
 
-    <title>Wesley Chang - Princeton University</title>
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/css/orange-bg.gif">
-    <link rel="canonical" href="https://wesleykchang.github.io/">
+      <img class='img-responsive center-block' src="" width="100%" height="100%" />
 
+      <p>
+      <i>Li-ion and Li Metal Batteries.
+      Materials Characterization for Energy Storage Technologies.</i>
 
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+        <span style="display: block; margin-bottom: 3em"></span>
 
-    <!-- Custom style -->
-    <link href="/assets/css/academicons.css" rel="stylesheet">
-    <link href="/assets/css/style.css" rel="stylesheet">
+      <a href="https://github.com/wesleykchang"><i class="fa fa-github"></i> </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://twitter.com/wesleykchang"><i class="fa fa-twitter"></i> </a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:wc8@princeton.edu"><i class="fa fa-envelope-o"></i> wc8@princeton.edu</a>
+      </p>
 
-
-
-
-</head>
-
-  <body id="page-top">
-      <main class="default-page-main">
-              <!-- Navbar ================================================== -->
-  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container-fluid">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="https://wesleykchang.github.io">Wesley Chang</a>
+      <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
+        <div style="text-align:left">
+          <h3> Recent News </h3>
+          <u>Happenings of the last two months. Updated 11/18/2019</u>
+          <span style="display: block; margin-bottom: 1em"></span>
+          <div class="news">
+              {% capture now %}{{'now' | date: '%s' | minus: 5184000 %}}{% endcapture %}
+              <ul style="list-style-position:outside;padding:20px" >
+                {% for new in site.data.news %}
+                  {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+                  {% if date > now %}
+                    <li>
+                      <span>
+                        {{ new.details }}
+                      </span>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+          </div>
+        </div >
       </div>
 
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
-          
-          
-          
-  
-
-  
-
-  
-    
-      <li><a href="/publications/">Publications</a></li>
-    
-  
-
-  
-    
-      <li><a href="/teaching/">Teaching</a></li>
-    
-  
 
 
+      <span style="display: block; margin-bottom: 3em"></span>
 
 
-    </ul>
-    <a class="nav pull-right" href="http://www.princeton.edu/" title="Princeton University"><img src="/assets/css/orange-bg.gif"
-      height="50px" alt="Stanford University" /></a>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
+      <a class="twitter-timeline" href="https://twitter.com/wesleykchang" data-widget-id="695051708246941697">Tweets by @wesleykchang</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-              <!-- Main Container ================================================== -->
+      <span style="display: block; margin-bottom: 3em"></span>
+      Department of Mechanical Engineering and Andlinger Center of Energy and the Environment at Princeton University<br>
+      86 Olden St. Princeton, NJ 08540
+      Department of Chemical Engineering and Columbia Electrochemical Energy Center at Columbia University
+      500 W. 120th St. New York, NJ 10027
+      <span style="display: block; margin-bottom: 3em"></span>
 
-<div class="container-fluid">
-  <div class="row">
-
-    <!-- Left Sidebar -->
-    <div class="col-md-8 col-md-offset-2 homepage-details">
-
-          <img src="/assets/css/Wesley-5.jpg" alt="Photo" class="img-thumbnail" style="float:left; height:200px; width=200px; margin-right:70px; margin-top:5px; margin-bottom:10px">
-
-        <h1 style="margin-top: 0px">Wesley Chang</h1>
-        <address>
-            <br>
-            <a href="https://mae.princeton.edu" title="Next Gen Batteries, Mechanical and Aerospace Engineering Department, Princeton University"><img src="/assets/css/Princeton-MAE.png"
-              height="60px"/></a>
-          <br><br>
-          <i class="fa fa-envelope-square fa-fw" aria-hidden="true"></i> <a href="mailto:wc8@princeton.edu">wc8@princeton.edu</a><br>
-          <i class="fa fa-linkedin-square fa-fw" aria-hidden="true"></i> <a href="http://www.linkedin.com/in/wesleykchang/">linkedin.com/in/wesleykchang</a><br>
-        </address>
-      <!-- </div> -->
-    </div>
-    </div> <!-- Close Row-->
-
-<div class="row">
-<!-- Right Sidebar -->
-<div class="col-md-8 col-md-offset-2">
-
-<h2 id="about-me">About Me</h2>
-
-<p>Hey, thanks for visiting. I'm a PhD Candidate in this <a href="https://mae.princeton.edu/people/graduate-students/chang">department</a>, at this <a href="https://www.princeton.edu/">university</a> researching batteries in this <a href="https://steingart.princeton.edu">lab </a> led by my Principal Investigator, Dr. Daniel Steingart.</p>
-
-<p>Before joining Princeton, I received my BS and MS in this <a href="https://cheme.stanford.edu">department</a>, at this <a href="http://www.stanford.edu/">university</a> in 2016. </p>
-
-<p>After my undergraduate, I jumped briefly into industry, working as a utilities and smart grid technology consultant for <a href="https://www.accenture.com/us-en/new-applied-now">Accenture</a> and as a battery scientist at <a href="http://primuspower.com/en/">a cleantech startup</a>. Following, I decided to pursue a PhD researching lithium metal batteries. 
-  Broadly, I think about energy, and specifically, how to store more of it in a more efficient and safe manner. </p>  
-  
-<h2 id="research-interests">Research Interests</h2>
-
-<p>My previous work has focused on <a href="https://dailab.stanford.edu/group.htm">carbon nanotube applications</a> and <a href="https://baogroup.stanford.edu/">silicon-graphite anodes for lithium ion batteries</a>. My current research topic is focused on understanding how to electrochemically synthesize uniform lithium metal for next-gen batteries </p>
-
-<h2 id="personal-interests">Personal Interests</h2>
-  
+    </header>
 </div>
-
-
-</div> <!-- Close Row-->
-</div> <!-- Close container-->
-
-      </main>
-    
-    <!-- Footer ================================================== -->
-    <footer>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <!-- <div class="col-md-3 col-md-offset-3 text-center"> -->
-                        <a href="mailto:wc8@princeton.edu"><i class="fa fa-envelope-square fa-3x"></i></a>
-                        <a href="http://www.linkedin.com/in/wesleykchang"><i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i></a>
-                         <a href="https://scholar.google.com/citations?user=HTB3a4sAAAAJ&hl=en"><i class="ai ai-google-scholar-square fa-3x"></i></a>
-                    <!-- </div> -->
-                    <!-- <div class="col-md-6"> -->
-                          <p class="copyright">&copy; <script>document.write(new Date().getFullYear())</script> <a href="https://wesleykchang.github.io">Wesley Chang</a></p>
-                    <!-- </div> -->
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Mathjax -->
-    <script type="text/javascript"
-    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-
-    <!-- Google Analytics -->
-    <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-97982496-1', 'auto');
-    ga('send', 'pageview');
-    </script>
-
-    
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-
-  </body>
-</html>
