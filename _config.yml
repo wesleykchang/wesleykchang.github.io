@@ -23,8 +23,6 @@ nav:
     href:           "/about"
   - name:           "publications"
     href:           "/publication"
-  - name:           "people"
-    href:           "/people"
   - name:           "blog"
     href:           "/blog"
   - name:           "resources"
