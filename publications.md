@@ -18,7 +18,7 @@ Bommier, C.\*, **Chang, W.**\*, Lu, Y., Yeung, J., Davies, G., Mohr, R., William
 **Chang, W.**, Park, J.H., Dutta, N., Arnold, C.B., Steingart, D. “Morphological and Chemical Mapping of Columnar Lithium Metal”. Chemistry of Materials (2020). [Link](https://doi.org/10.1021/acs.chemmater.9b04385)
 
 **Chang, W.**\*, Bommier, C.\*, Fair, T., Yeung, J., Patil, S., Steingart, D. “Understanding Adverse Effects of Temperature Shifts on Li-Ion Batteries: An Operando Acoustic Study”. Journal of The Electrochemical Society (2020). [Link](https://doi.org/10.1149/1945-7111/ab6c56) <br />
-*Focus Issue in Batteries and Energy Storage, listed in "Most Read" category in Journal of Electrochemical Society.*
+*Focus Issue on Battery Safety, Reliability and Mitigation, listed in "Most Read" category in Journal of Electrochemical Society.*
 
 Bommier, C.\*, **Chang, W.**\*, Li, J., Biswas, S., Davies, G., Nanda, J., Steingart, D., "Operando Acoustic Monitoring of SEI Formation and Long-Term
 Cycling in NMC/SiGr Composite Pouch Cells". Journal of The Electrochemical Society (2020). [Link](https://doi.org/10.1149/1945-7111/ab68d6)
