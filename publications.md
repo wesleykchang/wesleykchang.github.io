@@ -29,7 +29,7 @@ Cycling in NMC/SiGr Composite Pouch Cells". Journal of The Electrochemical Socie
 ### 2012
 Wang, H., Liang, Y., Gong, M., Li, Y., **Chang, W.**, Mefford, T., Zhou, J., Wang, J., Regier, T., Wei, F., Dai, H. " An ultrafast nickel – iron battery from strongly
 coupled inorganic nanoparticle / nanocarbon hybrid materials". Nature Communications (2012). [Link](https://doi.org/10.1038/ncomms1921) <br />
-*Featured in [Stanford news](https://news.stanford.edu/news/2012/june/ultrafast-edison-battery-062612.html)*
+*Featured in [The Wall Street Journal](https://blogs.wsj.com/ideas-market/2012/07/02/edisons-battery-reborn/), [Science Daily](https://www.sciencedaily.com/releases/2012/06/120626114316.htm)*
 
 Liang, Y., Wang, H., Diao, P., **Chang, W.**, Hong, G., Li, Y., Gong, M., Xie, L., Zhou, J., Wang, J., Regier, T., Wei, F., Dai, H. "Oxygen Reduction Electrocatalyst Based on Strongly Coupled Cobalt Oxide Nanocrystals and Carbon Nanotubes". Journal of the American Chemical Society (2012). [Link](https://doi.org/10.1021/ja305623m)
 
