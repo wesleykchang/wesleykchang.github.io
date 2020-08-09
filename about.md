@@ -11,13 +11,3 @@ He is a 2014 graduate of Stanford University where he studied chemical engineeri
 On this topic, he has previously worked on various forms of new battery technologies, ranging from the electrochemical properties of [carbon nanotube-based hybrid nanomaterials](https://www.sciencedaily.com/releases/2012/06/120626114316.htm), silicon microparticles as low-cost high-energy-density anodes for Li-ion batteries, and commercial-scale [zinc-bromine flow batteries](https://www.primuspower.com/en/) for grid storage. 
  
 Besides tinkering in the lab, he enjoys mountain hiking and snowboarding throughout the Western US, and fully immersing himself in the cultural melting pot of New York City, where he currently resides. Having received the prestigious [Questbridge Match full-ride scholarship](https://www.questbridge.org/about/mission-and-vision) for his undergraduate studies at Stanford, he has continued to advocate for increased inclusion and diversity in STEM at the graduate level. At Princeton, he has participated as a Graduate Fellow advising first-gen low-income undergraduate students on STEM careers and graduate programs through the [Scholars Institute Fellows Program](https://sifp.princeton.edu/our-mission), and plans to continue leading these important efforts at the graduate level and beyond.
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174999397-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-174999397-1');
-</script>
