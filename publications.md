@@ -22,7 +22,7 @@ Bommier, C.\*, **Chang, W.**\*, Lu, Y., Yeung, J., Davies, G., Mohr, R., William
 *Focus Issue on Battery Safety, Reliability and Mitigation, listed in "Most Read" category in Journal of Electrochemical Society.*
 
 Bommier, C.\*, **Chang, W.**\*, Li, J., Biswas, S., Davies, G., Nanda, J., Steingart, D., "Operando Acoustic Monitoring of SEI Formation and Long-Term
-Cycling in NMC/SiGr Composite Pouch Cells". Journal of The Electrochemical Society (2020). [Link](https://doi.org/10.1149/1945-7111/ab68d6) <a href="https://wesleykchang.github.io/publications/2020_JECS_Si.pdf" target="_blank">PDF</a>
+Cycling in NMC/SiGr Composite Pouch Cells". Journal of The Electrochemical Society (2020). [Link](https://doi.org/10.1149/1945-7111/ab68d6), <a href="https://wesleykchang.github.io/publications/2020_JECS_Si.pdf" target="_blank">PDF</a>
 
 ### 2018
 **Chang, W.**, Park, J.H., Steingart D. "Poor Man’s Atomic Layer Deposition of LiF for Additive-Free Growth of Lithium Columns". Nano Letters (2018). [Link](https://doi.org/10.1021/acs.nanolett.8b03070), <a href="https://wesleykchang.github.io/publications/2018_NanoLetters.pdf" target="_blank">PDF</a>, <a href="https://wesleykchang.github.io/publications/2018_NanoLetters_SI.pdf" target="_blank">Supplementary Data</a>
