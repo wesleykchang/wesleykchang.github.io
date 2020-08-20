@@ -1,6 +1,6 @@
 ---
 title: Publication
-permalink: /publication/
+permalink: /publications/
 ---
 
 Wesley Chang's [Google Scholar profile](https://scholar.google.com/citations?user=HTB3a4sAAAAJ&hl=en&oi=ao).
