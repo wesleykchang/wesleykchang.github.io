@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About Me
-Wesley Chang is a PhD candidate at Princeton University working jointly in the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/), and since May 2019, the [Columbia University Electrochemical Energy Center](https://ceec.engineering.columbia.edu/). He is advised by [Dr. Daniel Steingart](https://dansteingart.com/), researching electrode/electrolyte interfacial phenomena in lithium-ion and lithium metal batteries, and closely collaborates with other battery researchers at DOE National Labs and both Princeton and Columbia. 
+Wesley Chang is a PhD candidate at Princeton University working jointly in the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/), and since May 2019, the [Columbia University Electrochemical Energy Center](https://ceec.engineering.columbia.edu/). He is advised by [Dr. Daniel Steingart](https://dansteingart.com/), researching the chemo-mechanics of lithium-ion and lithium metal batteries, and closely collaborates with other battery researchers at Department of Energy National Labs and both Princeton and Columbia. 
  
 He is a 2014 graduate of Stanford University where he studied chemical engineering with an emphasis on materials science. After thinking of himself as a chemical engineer and a brief stint in technology and management consulting, his interests centered in on fundamental battery materials research. The transition to a post-scarcity society will be enabled by new materials designs, understanding, and deployment for fully renewable energy storage technologies. 
  
