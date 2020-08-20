@@ -15,7 +15,7 @@ Wesley Chang's [Google Scholar profile](https://scholar.google.com/citations?use
 Bommier, C.\*, **Chang, W.**\*, Lu, Y., Yeung, J., Davies, G., Mohr, R., Williams, M., Steingart, D. “Operando Acoustic Detection of Li Metal Plating in Commercial LCO/Graphite Pouch Cells”. Cell Reports Physical Science (2020). [Link](https://doi.org/10.1016/j.xcrp.2020.100035) <br />
 *Featured in [MRS Bulletin](https://www.cambridge.org/core/journals/mrs-bulletin/news/noninvasive-acoustic-sensing-diagnoses-lithium-ion-battery-health)*
 
-**Chang, W.**, Park, J.H., Dutta, N., Arnold, C.B., Steingart, D. “Morphological and Chemical Mapping of Columnar Lithium Metal”. Chemistry of Materials (2020). [Link](https://doi.org/10.1021/acs.chemmater.9b04385) <a href="wesleykchang.github.io/publications/acs.chemmater.9b04385.pdf" target="_blank">PDF</a>
+**Chang, W.**, Park, J.H., Dutta, N., Arnold, C.B., Steingart, D. “Morphological and Chemical Mapping of Columnar Lithium Metal”. Chemistry of Materials (2020). [Link](https://doi.org/10.1021/acs.chemmater.9b04385) <a href="publications/acs.chemmater.9b04385.pdf" target="_blank">PDF</a>
 
 
 **Chang, W.**\*, Bommier, C.\*, Fair, T., Yeung, J., Patil, S., Steingart, D. “Understanding Adverse Effects of Temperature Shifts on Li-Ion Batteries: An Operando Acoustic Study”. Journal of The Electrochemical Society (2020). [Link](https://doi.org/10.1149/1945-7111/ab6c56) <br />
