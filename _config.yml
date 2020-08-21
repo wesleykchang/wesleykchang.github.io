@@ -24,11 +24,7 @@ nav:
     href:           "/about"
   - name:           "publications"
     href:           "/publication"
-  - name:           "blog"
-    href:           "/blog"
-  - name:           "resources"
-    href:           "/resources"
-
+ 
 # Sass
 sass:
   style:            :compressed
