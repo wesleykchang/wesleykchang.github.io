@@ -9,7 +9,7 @@ Below are a few examples of some of the interesting projects I have worked on re
 Utilizing lab-scale ultrasonic pulsers and oscilloscopes, I have helped turn this diagnostic tool into a more quantitative measure of battery mechanical properties (e.g. stiffness, expansion). With code optimization and signal processing, the ultrasound transducers can collect multiple waveforms per second, with each waveform containing sub-nanosecond information. Combined with stepper motors, the ultrasound technique can scan and image a battery within minutes.
 \
 \
-![stiffness](/assets/css/M3_3C_10fps.mp4)
+![stiffness](/assets/css/ezgif.com-gif-maker.gif)
 
 
 # **Non-Arrhenius diffusivity phenomena in graphite anodes**
