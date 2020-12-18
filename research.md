@@ -3,7 +3,7 @@ title: Research
 permalink: /research/
 ---
 
-I am broadly interested in all energy storage technologies that lead to a net-zero emissions society. I've specifically worked on different types of batteries for the past 7 years, including high energy density batteries (e.g. commercial Li-ion) for electric vehicles and portables, and long duration batteries (e.g. zinc-bromine) for grid-scale storage. Both of these applications are experiencing exponential drops in cost and increase in scale, globally. Below are a few examples of some of the interesting projects I have worked on recently. 
+Below are a few examples of some of the interesting projects I have worked on recently. 
 
 **High resolution acoustics**
 
