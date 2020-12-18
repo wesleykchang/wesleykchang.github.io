@@ -17,6 +17,11 @@ Lithium metal plating on the graphite negative electrode is a major concern if a
 ![Li plating](https://github.com/wesleykchang/wesleykchang.github.io/blob/master/assets/css/Screen%20Shot%202020-12-18%20at%207.55.24%20AM.png)
 
 **Failure modes of columnar lithium morphology**
+The formation of the solid-electrolyte-interphase (SEI) on lithium metal is a highly complex cascade of chemical reactions. In conventional LiPF<sub>6</sub>-based electrolytes, common compositions include LiF, lithium oxides, and lithium carbonates along with other alkyl carbonates. X-ray photoelectron spectroscopy mapping can map out spatial heterogeneities in various components of the SEI and determine how they change with different types of morphologies. Using XPS mapping, I showed that the loss of dense/columnar morphology is associated with higher relative compositions of Li<sub>2</sub>O<sub>2</sub> rather than Li<sub>2</sub>O and also less LiF in conventional carbonate solvent. However, adding fluorinated carbonate (FEC) does not show the same chemical decomposition pathways - the loss of morphology does not substantially affect the SEI composition pointing to the enhanced chemical stability despite continued lack of mechanical integrity. 
+
+![Failure modes](https://github.com/wesleykchang/wesleykchang.github.io/blob/master/assets/css/Screen%20Shot%202020-12-18%20at%207.56.04%20AM.png)
 
 **Impact of the copper current collector surface on lithium deposition morphology**
 Seemingly the least important part of a battery, we showed here that even small changes to how the copper metal surface is cleaned/polished significantly affects the resulting surface reaction upon exposure to lithium electrolytes, and also affects the resulting lithium deposition morphology. A dense, columnar morphology is obtained if the surface oxide is removed but some trace water is kept in order to induce a hydrolysis reaction with LiPF<sub>6</sub> to form a LiF-rich interphase. 
+
+
