@@ -3,13 +3,15 @@ title: Research
 permalink: /research/
 ---
 
-Below are a few examples of some of the interesting projects I have worked on recently. 
+Below are a few examples of some of the interesting projects I have worked on recently: 
 
 **High resolution acoustics**
+Utilizing lab-scale ultrasonic pulsers and oscilloscopes, I have helped turn this diagnostic tool into a more quantitative measure of battery mechanical properties (e.g. stiffness, expansion). With code optimization and signal processing, the ultrasound transducers can collect multiple waveforms per second, with each waveform containing sub-nanosecond information. Combined with stepper motors, the ultrasound technique can scan and image a battery within minutes.
 
 **Non-Arrhenius diffusivity phenomena in graphite anodes**
 
 **Measuring rate of cell gassing with acoustics**
+High temperature environments can lead to gas building up in a cell because of electrolyte decomposition reactions. In pouch form, this leads to significant bulging of the cell. In cylindrical cells, this is why safety vents are engineered to the design in order to prevent catastrophic explosions. Solid/gas interfaces are nearly completely attenuating to sound, which makes gassing occurrence easily detectable with acoustics. In fact, moving the cell from a low to high temperature has beeen shown to cause significant gassing, even in the absence of cycling. This work was published in the JES Focus Issue (2020) on Battery Safety, Reliability and Mitigation. 
 
 **Acoustic detection of Li plating in commercial Li-ion batteries**
 Lithium metal plating on the graphite negative electrode is a major concern if a lithium-ion battery is fast-charged. Li-ion batteries are typically rated up to around 1C (e.g. at a rate equivalent to a full charge in 60 minutes), but equivalent charge times comparable with combustion engine gas re-filling would require around 15 minutes, or a 4C charge rate. Such high charge rates severely limit transport at the particle scale in the battery and may lead to significant diffusion gradients that cause lithium to plate as metal rather than insert, or intercalate, into the graphite particles. Plated lithium metal can then lead to other side-reactions and electrolyte decomposition, hence limiting the performance and cycle life of the battery. In the [Cell Reports Phys Sci paper](https://wesleykchang.github.io/publications/2020_Cell_Reports.pdf), I show a large dataset that demonstrates the ability of acoustics to detect and estimate the degree of lithium metal plating during cycling. Since plated lithium metal affects the overall mechanical properties of the battery (e.g. by increasing the total thickness and decreasing the modulus), the sound speed and attenuation are both affected. These changes in sound properties are correlated with the amount of lithium plating. 
