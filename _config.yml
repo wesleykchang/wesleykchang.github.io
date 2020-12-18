@@ -24,7 +24,9 @@ nav:
     href:           "/about"
   - name:           "publications"
     href:           "/publication"
- 
+  - name:           "research"
+    href:           "/research"
+    
 # Sass
 sass:
   style:            :compressed
