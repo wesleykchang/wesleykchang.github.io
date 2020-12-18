@@ -37,4 +37,4 @@ The formation of the solid-electrolyte-interphase (SEI) on lithium metal is a hi
 Seemingly the least important part of a battery, we showed here that even small changes to how the copper metal surface is cleaned/polished significantly affects the resulting surface reaction upon exposure to lithium electrolytes, and also affects the resulting lithium deposition morphology. A dense, columnar morphology is obtained if the surface oxide is removed but some trace water is kept in order to induce a hydrolysis reaction with LiPF<sub>6</sub> to form a LiF-rich interphase. 
 \
 \
-![copper](/assets/css/Screen%20Shot%202020-12-18%20at%207.56,.ng)
+![copper](/assets/css/Screen%20Shot%202020-12-18%20at%209.10.15%20AM.png)
