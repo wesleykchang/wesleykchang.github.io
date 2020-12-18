@@ -14,6 +14,8 @@ I am broadly interested in all energy storage technologies that lead to a net-ze
 **Acoustic detection of Li plating in commercial Li-ion batteries**
 Lithium metal plating on the graphite negative electrode is a major concern if a lithium-ion battery is fast-charged. Li-ion batteries are typically rated up to around 1C (e.g. at a rate equivalent to a full charge in 60 minutes), but equivalent charge times comparable with combustion engine gas re-filling would require around 15 minutes, or a 4C charge rate. Such high charge rates severely limit transport at the particle scale in the battery and may lead to significant diffusion gradients that cause lithium to plate as metal rather than insert, or intercalate, into the graphite particles. Plated lithium metal can then lead to other side-reactions and electrolyte decomposition, hence limiting the performance and cycle life of the battery. In the [Cell Reports Phys Sci paper](https://wesleykchang.github.io/publications/2020_Cell_Reports.pdf), I show a large dataset that demonstrates the ability of acoustics to detect and estimate the degree of lithium metal plating during cycling. Since plated lithium metal affects the overall mechanical properties of the battery (e.g. by increasing the total thickness and decreasing the modulus), the sound speed and attenuation are both affected. These changes in sound properties are correlated with the amount of lithium plating. 
 
+![Li plating](https://github.com/wesleykchang/wesleykchang.github.io/blob/master/assets/css/Screen%20Shot%202020-12-18%20at%207.55.24%20AM.png)
+
 **Failure modes of columnar lithium morphology**
 
 **Impact of the copper current collector surface on lithium deposition morphology**
