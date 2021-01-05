@@ -8,7 +8,7 @@ Wesley Chang's [Google Scholar profile](https://scholar.google.com/citations?use
 <hr>
 
 ### 2021
-**Chang, W.**\*, Bommier, C.\*, Mohr, R., Steingart, D. Impact of Non Arrhenius Temperature Behavior on Fast Charging Capabilities of LiCoO2 Graphite Lithium-ion Batteries, Journal of Physical Chemistry: C (2021). 
+**Chang, W.**\*, Bommier, C.\*, Mohr, R., Steingart, D. Impact of Non-Arrhenius Temperature Behavior on Fast Charging Capabilities of LiCoO2 Graphite Lithium-ion Batteries, Journal of Physical Chemistry: C (2021). 
 
 ### 2020
 
