@@ -5,8 +5,8 @@ permalink: /research/
 
 Below is a glimpse of some recent projects:
 
-## **High resolution acoustics**
-X-ray techniques are great for high spatial resolution imaging of batteries during cycling. Acoustics benefits from superior temporal resolution, along with direct measurements of mechanical properties. I'm currently working on optimizing the resolution of our lab-scale ultrasonic pulsers and receivers, which are currently able to capture one waveform every 0.2 seconds, with sub-nanosecond sampling within each waveform. In combination with stepper motors, this technique can image a small pouch cell in less than a minute while capturing cell-level spatial heterogeneity such as plating, gassing, and other variations in performance. The image below depicts an experiment that captured battery stiffness, expansion, and sound speed in-situ.
+## **High resolution acoustic imaging**
+X-ray techniques benefit from high spatial resolution imaging. Ultrasound benefits from fast temporal resolution along with direct measurements of mechanical properties (i.e. modulus and density). In combination with stepper motors, a commercial pouch cell can be fully imaged in minutes with < 0.5 mm spatial resolution. As a result, operando acoustic imaging of Li plating and/or gassing during fast-charging of commercial Li-ion batteries is possible. The figure below depicts an experiment that captured battery stiffness, expansion, and sound speed during cycling, using a combination of ultrasound transducers within a transmission x-ray microscope. 
 \
 \
 ![stiffness](/assets/css/ezgif.com-gif-maker.gif)
