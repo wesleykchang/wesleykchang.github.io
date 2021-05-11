@@ -10,6 +10,8 @@ Wesley Chang's [Google Scholar profile](https://scholar.google.com/citations?use
 ### 2021
 **Chang, W.**\*, Bommier, C.\*, Mohr, R., Steingart, D. Impact of Non-Arrhenius Temperature Behavior on the Fast-Charging Capabilities of LiCoO2-Graphite Lithium-ion Batteries, Journal of Physical Chemistry: C (2021). [Link](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c09972), <a href="https://wesleykchang.github.io/publications/2021_JPCC.pdf" target="_blank">PDF</a>
 
+Sarkar, A., May, R., Ramesh, S., **Chang W.**, Recovery and Reuse of Composite Cathode Binder in Lithium Ion Batteries, ChemistryOpen (2021). [Link](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/open.202100060), <a href="https://wesleykchang.github.io/publications/2021_JPCC.pdf" target="_blank">PDF</a>
+
 ### 2020
 
 **Chang, W.**, Mohr, R., Kim, A., Raj, A., Davies, G., Denner, K., Park, J.H., Steingart, D. “Measuring Effective Stiffness of Li-ion Batteries via Acoustic Signal Processing”. Journal of Materials Chemistry A (2020). [Link](https://doi.org/10.1039/D0TA05552B), <a href="https://wesleykchang.github.io/publications/2020_JMCA.pdf" target="_blank">PDF</a>, <a href="https://wesleykchang.github.io/publications/2020_JMCA_1C.mp4" target="_blank">Movie 1</a>, <a href="https://wesleykchang.github.io/publications/2020_JMCA_2C.mp4" target="_blank">Movie 2</a>, <a href="https://wesleykchang.github.io/publications/2020_JMCA_3C.mp4" target="_blank">Movie 3</a>
