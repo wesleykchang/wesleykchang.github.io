@@ -10,7 +10,7 @@ Wesley Chang's [Google Scholar profile](https://scholar.google.com/citations?use
 ### 2021
 **Chang, W.**\*, Bommier, C.\*, Mohr, R., Steingart, D. Impact of Non-Arrhenius Temperature Behavior on the Fast-Charging Capabilities of LiCoO2-Graphite Lithium-ion Batteries, Journal of Physical Chemistry: C (2021). [Link](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c09972), <a href="https://wesleykchang.github.io/publications/2021_JPCC.pdf" target="_blank">PDF</a>
 
-Sarkar, A., May, R., Ramesh, S., **Chang W.**, Recovery and Reuse of Composite Cathode Binder in Lithium Ion Batteries, ChemistryOpen (2021). [Link](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/open.202100060), <a href="https://wesleykchang.github.io/publications/2021_ChemistryOpen.pdf" target="_blank">PDF</a>
+Sarkar, A., May, R., Ramesh, S., **Chang W.**, Recovery and Reuse of Composite Cathode Binder in Lithium Ion Batteries, ChemistryOpen (2021). [Link](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/open.202100060), <a href="https://wesleykchang.github.io/publications/2021_ChemistryOpen.pdf" target="_blank">PDF</a>, <a href="https://wesleykchang.github.io/publications/2021_ChemistryOpen_SI.pdf" target="_blank">Supplementary Data</a> <br />
 
 ### 2020
 
