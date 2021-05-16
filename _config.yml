@@ -22,6 +22,8 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
+  - name:           "resume"
+    href:           "/resume"
   - name:           "publications"
     href:           "/publication"
   - name:           "research"
