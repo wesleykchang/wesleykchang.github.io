@@ -23,7 +23,7 @@ nav:
   - name:           "about"
     href:           "/about"
   - name:           "resume"
-    href:           "/Resume"
+    href:           "/Resume.pdf"
   - name:           "publications"
     href:           "/publication"
   - name:           "research"
