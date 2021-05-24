@@ -24,7 +24,14 @@ The figure below depicts an experiment that captured battery stiffness, expansio
 Solid-state electrolytes have high chemical and electrochemical stability against lithium metal, but are also subject to complex degradation mechanisms. Using a range of characterization tools, in operando, reveal both mechanical and microstructural contributions to interfacial degradation. 
 \
 \
-![LLZO](/assets/css/)
+The schematics below show several custom cell designs used for acoustic and NMR characterization of solid-state electrolytes. 
+\
+\
+![LLZO](/assets/css/LLZO_Figure1.jpg)
+\
+\
+The figure below demonstrates chemo-mechanical mechanisms of degradation at the lithium metal - LLZO interface, indicating high stack pressures lead to creep-driven lithium growth followed by lithium penetration and electrolyte fracture after plenty of charge is passed. 
+![LLZO](/assets/css/LLZO_Figure5.jpg)
 
 ## **Measuring rate of cell gassing with acoustics**
 High temperature environments can lead to gas building up in a cell because of electrolyte decomposition reactions. In pouch form, this leads to significant bulging of the cell. In cylindrical cells, this is why safety vents are engineered to the design in order to prevent catastrophic explosions. Solid/gas interfaces are nearly completely attenuating to sound, which makes gassing occurrence easily detectable with acoustics. In fact, moving the cell from a low to high temperature has beeen shown to cause significant gassing, even in the absence of cycling. This work was published in the JES Focus Issue (2020) on Battery Safety, Reliability and Mitigation. The figure below shows that the loss of sound signal occurred faster when transitioned to higher temperature environments due to faster degradaton kinetics. 
