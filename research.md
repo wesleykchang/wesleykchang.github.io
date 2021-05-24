@@ -6,7 +6,11 @@ permalink: /research/
 Below is a glimpse of some recent projects:
 
 ## **High resolution acoustic imaging**
-X-ray techniques benefit from high spatial resolution imaging. Ultrasound benefits from fast temporal resolution along with direct measurements of mechanical properties (i.e. modulus and density). In combination with stepper motors, a commercial pouch cell can be fully imaged in minutes with < 0.5 mm spatial resolution. As a result, operando acoustic imaging of Li plating and/or gassing during fast-charging of commercial Li-ion batteries is possible. The figure below depicts an experiment that captured battery stiffness, expansion, and sound speed during cycling, using a combination of ultrasound transducers within a transmission x-ray microscope. 
+X-ray techniques benefit from high spatial resolution imaging. Ultrasound benefits from fast temporal resolution along with direct measurements of mechanical properties (i.e. modulus and density). In combination with stepper motors, a commercial pouch cell can be fully imaged in minutes with < 0.5 mm spatial resolution. As a result, operando acoustic imaging of Li plating and/or gassing during fast-charging of commercial Li-ion batteries is possible.
+\
+\
+![acoustic scanning](/assets/css/)
+The figure below depicts an experiment that captured battery stiffness, expansion, and sound speed during cycling, using a combination of ultrasound transducers within a transmission x-ray microscope. 
 \
 \
 ![stiffness](/assets/css/ezgif.com-gif-maker.gif)
