@@ -28,6 +28,8 @@ nav:
     href:           "/publication"
   - name:           "research"
     href:           "/research"
+  - name:           "teaching"
+    href:           "/Princeton_Teaching_Transcript.pdf"
     
 # Sass
 sass:
